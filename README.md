@@ -80,6 +80,7 @@ gr.close_all()
 ```
 
 ### OUTPUT:
+![image](./Screen%20Shot%201947-02-27%20at%2010.49.39.png)
 
 ### RESULT:
 A working NER prototype was developed using a fine-tuned BART model, accurately identifying entities from user input. The Gradio interface enabled interactive testing and evaluation, showcasing strong recognition performance and potential for future improvements.
